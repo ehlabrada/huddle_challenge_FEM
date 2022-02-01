@@ -18,7 +18,6 @@ function App() {
   
   return (
     <ThemeProvider theme={Theme}>
-
       <>
       <GlobalStyles />
         <Header />
